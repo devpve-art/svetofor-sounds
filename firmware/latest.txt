@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.6.2-rs
-file svetofor_s3_ota.bin 1765248 aa764d980135b376616c1aef6a0bd4d8c2ae1085cc6f0472d30719bca50114e0
-note Удаленный доступ через сервер bot.webtun.uk (Telegram-бот); прошивка из сети; Wi-Fi 20 МГц
-sig 3045022100d60be03c2f7d5a81a94f8d3713eb2a7ce9c39f8e22d2fb694cb2688cecbb4922022003be440ed31f6d5b00d5dad14e554ebde8212e439c3e2950554986ed39836f3a
+ver 11.6.4-rs
+file svetofor_s3_ota.bin 1764464 421e14b03ef494a80816008f762ceaece49582e922ca52f4833108a229c85219
+note Исправлена перезагрузка после «Помигать подсветкой»; страница через сервер с оформлением
+sig 3046022100fa2de8295b4af0a3e3b19b2a65f64e12b93f0f7ac7bfa2f3dbfdc5c26d4beb47022100f935c2add30f53b1cff5a108aae656b167d71e4e06b97a5002338da9ad84b845
