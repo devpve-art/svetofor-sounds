@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.6.4-rs
-file svetofor_s3_ota.bin 1764464 421e14b03ef494a80816008f762ceaece49582e922ca52f4833108a229c85219
-note Исправлена перезагрузка после «Помигать подсветкой»; страница через сервер с оформлением
-sig 3046022100fa2de8295b4af0a3e3b19b2a65f64e12b93f0f7ac7bfa2f3dbfdc5c26d4beb47022100f935c2add30f53b1cff5a108aae656b167d71e4e06b97a5002338da9ad84b845
+ver 11.7.0-rs
+file svetofor_s3_ota.bin 1768880 22c4c114d59f0a82afaf1514e2e7a5a93246f43bcc6db6b7c3096508017a5cad
+note Новая вёрстка веб-интерфейса: одна колонка, группы, техническое на «Диагностике»
+sig 3044022055db244ab4cb99148fa3efd4f7583b99803b35a22720b6c3ce16843c4b2be29502200e6dd1be48374f5a5e30444ba48186151dbbfdd0672288c4e72c2eb2b3fb984d
