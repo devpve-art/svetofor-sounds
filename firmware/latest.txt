@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.8.1-rs
-file svetofor_s3_ota.bin 1797072 d101b1ce44bf36a93597994beb720d910b485743d46e3135fc640f946470ff81
-note Машину на схеме режимов снова можно тянуть пальцем; через 8 с схема возвращается к живому расстоянию
-sig 3046022100deeabe0fcd27f303e6b57b27afe7eb216b64d3a68854cad0d8b62a764c55c9e6022100c6f65e6cba14c6f0c99df71ee71c616a07cfede7d82413a9da46d9b2d8cbd6e8
+ver 11.8.2-rs
+file svetofor_s3_ota.bin 1806320 2bcde37de1cb1aaf6064c28cc124f81970fc1f99263936096f587ee10ae42b78
+note Проверка полей и зон при сохранении, реле «импульс при выезде», окно сброса, пароль Wi-Fi скрыт, новые подписи
+sig 304502203205369e7177cdef136f42490830180251c54bea0dc3ca93d84d5249038dbfe6022100aba7743c234558aed5cdb2dccd2fcef2bd842c2ad12b2442cc04bd3c6417e333
