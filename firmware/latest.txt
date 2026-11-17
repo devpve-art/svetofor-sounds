@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.8.2-rs
-file svetofor_s3_ota.bin 1806320 2bcde37de1cb1aaf6064c28cc124f81970fc1f99263936096f587ee10ae42b78
-note Проверка полей и зон при сохранении, реле «импульс при выезде», окно сброса, пароль Wi-Fi скрыт, новые подписи
-sig 304502203205369e7177cdef136f42490830180251c54bea0dc3ca93d84d5249038dbfe6022100aba7743c234558aed5cdb2dccd2fcef2bd842c2ad12b2442cc04bd3c6417e333
+ver 11.8.4-rs
+file svetofor_s3_ota.bin 1813344 a8a6b406b6fd38f7d9ee8c9c29c5adb0d1818a4bf224d4c0bbfd35325a243a20
+note Одна кнопка Сохранить, поля по режиму, новая раскладка Основных и Сети, Wi-Fi Авто: сеть пресета и 1234/88888888
+sig 3044022006073815d87bc9618956113ad54ad8a38ec1e9b21d5267d12d5f7304dd2bb112022061570951d452ba84b6f86d5e42127b0b095d3c9eafa5d1fbcdbdc04cdfc03b45
