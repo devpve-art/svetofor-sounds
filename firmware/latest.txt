@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.9.3-rs
-file svetofor_s3_ota_11.9.3-rs.bin 1825904 f0b62c06dfe7e92675e0051f30ec3a73bda9a91fceb84fa9266faf1d5d4b206d
-note Удаленный доступ быстрее: ответы без задержки TCP (NODELAY), опрос сервера ровно по сроку
-sig 30450220550fb7eb8e58946abf11eb633a627118148c53cb30103c8a62c6c6e9d50e31b4022100c5ca593d4ea28d8e35483916a327db8ab03c3fc84ba86aa352ba6252e7574cf6
+ver 11.9.4-rs
+file svetofor_s3_ota_11.9.4-rs.bin 1825904 71c0c6ded615ba5c973827a1ce544560e70b535f968f8c8bd2d104a3a4fbfaa6
+note Исправлена задержка 11.9.3: ответы удаленного доступа без пауз 1–2 с (ящик TCP lwIP 6 → 32)
+sig 3045022100f6f1a84e9f68de2cea04de74569cc0d4ad1d83d4e87819965a4bc57d6fdf15d402203bd549d484ae7f3a573eb605c90ab2b538c747aaeac1a99c8b3cc2b0a4458ed3
