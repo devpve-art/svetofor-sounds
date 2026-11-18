@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.9.1-rs
-file svetofor_s3_ota_11.9.1-rs.bin 1844256 22e190aaba1f4a106ceab9f03ecc4af0df5759c28671dd938a0b71cb5f4cd37d
-note Слабый Wi-Fi: сжатые ответы удаленного доступа, токен команд /tok, переподключение роутера после обрывов
-sig 3045022100a0197f9a094e4a0fe99dc8070f83d91941e9c97271e3c655ab149799115b603e02204dc50cd62bc64ddd8aaf8a2bd940a62d120e8a761d93df085fb3cc6c13afad7f
+ver 11.9.2-rs
+file svetofor_s3_ota_11.9.2-rs.bin 1825696 82b9007690a39906bba0f729c02cd2787e42a10946b9f3ae6ddacc4cfaaed9f3
+note Исправлен сбой 11.9.1 (свой gzip). Слабый Wi-Fi: сжатые ответы, токен /tok, переподключение роутера
+sig 3045022054f1260a5633e8d4b4f62d21ba95adf64a11812c36a89e898967403791c2064402210080c1747632c068a2c339a66e866f297a392aaa5bbb903c6f5cb6db2702f5bdf6
