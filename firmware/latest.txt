@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.9.0-rs
-file svetofor_s3_ota_11.9.0-rs.bin 1820576 15289ae2855eff6036e628df1cb6ba33b429560a590c5853347dfd96100e2899
-note Работа без звука — 4-й пресет «Без звука» (как «Мойка», без звука) вместо переключателя
-sig 3045022009c2034402d0ec6a16e098ee11208931360e8e018d25d9e4cd15fbd7c94cefa70221008b885b10a684583c2c85455b3f722cd922a0955096246eaf462d498364db08ed
+ver 11.9.1-rs
+file svetofor_s3_ota_11.9.1-rs.bin 1844256 22e190aaba1f4a106ceab9f03ecc4af0df5759c28671dd938a0b71cb5f4cd37d
+note Слабый Wi-Fi: сжатые ответы удаленного доступа, токен команд /tok, переподключение роутера после обрывов
+sig 3045022100a0197f9a094e4a0fe99dc8070f83d91941e9c97271e3c655ab149799115b603e02204dc50cd62bc64ddd8aaf8a2bd940a62d120e8a761d93df085fb3cc6c13afad7f
