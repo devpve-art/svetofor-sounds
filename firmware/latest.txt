@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.8.5-rs
-file svetofor_s3_ota_11.8.5-rs.bin 1813536 7d81191d60a77558a4ef7f625e9598322d7c9e22f09194dd9823dbb2e245f55d
-note Мини-приложение видит прибор во время скачивания прошивки, свежий список прошивок при проверке
-sig 3045022100e7427d423da6192cf26ca4afcef2f8b70d0cd0671bb52f51e64572b876b9575b022053eabaf70c37d840533a4501b71e5469be998cb7a78d9dd64425b16ec63ac060
+ver 11.8.6-rs
+file svetofor_s3_ota_11.8.6-rs.bin 1814256 16fbcacb8772f435e5e3b20c56e252ecda5652fab6d18e50a65aa5c70a747787
+note Датчик на слабом Wi-Fi не пропадает с сервера на десятки минут: запись на сервер с ограничением по времени
+sig 3045022100e8ad980423200e08f380604fafb6b0bc30c377d08eaa83ba0b20af1733cbaaaa02205435d35a448fd554a6f9de6a1463d2b6b7dae9a1d50772663793975b74ce67de
