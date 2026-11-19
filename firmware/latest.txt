@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.9.4-rs
-file svetofor_s3_ota_11.9.4-rs.bin 1825904 71c0c6ded615ba5c973827a1ce544560e70b535f968f8c8bd2d104a3a4fbfaa6
-note Исправлена задержка 11.9.3: ответы удаленного доступа без пауз 1–2 с (ящик TCP lwIP 6 → 32)
-sig 3045022100f6f1a84e9f68de2cea04de74569cc0d4ad1d83d4e87819965a4bc57d6fdf15d402203bd549d484ae7f3a573eb605c90ab2b538c747aaeac1a99c8b3cc2b0a4458ed3
+ver 11.9.5-rs
+file svetofor_s3_ota_11.9.5-rs.bin 1828240 f9160fa56a1784a2d31fd5ac35f846afe70c2e58289362e377702fce340635c2
+note Буфер событий для CRM: смены свободно/занято с точным временем, при обрыве связи заезды не теряются
+sig 3046022100f6f0a63331fb64d3e37407b8fc388f2232db7e64cfb18c9e2890957895da3e320221009648c744e18351e9381930f14f3af9a9bf0368139b5de38336c93776dffc9b1f
