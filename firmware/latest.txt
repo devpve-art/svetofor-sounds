@@ -1,5 +1,5 @@
 SVTFW 1
-ver 11.9.6-rs
-file svetofor_s3_ota_11.9.6-rs.bin 1828608 f7cd622782478f257019865bb4c1867dc3b280e0597716e7104964cc3ccd8080
-note Схема: потолок 4 м, машина 1.5 м; плавный заезд и на телефонах с энергосбережением
-sig 3046022100ba8d81b718d28aeace779cb73ba8038ac7842391b0eb140910622b1a14b885110221008f45fd167b2fb84a4abd4630b1b42fc9ac27f4aa21615d5face5fc4962cd18b6
+ver 11.9.8-rs
+file svetofor_s3_ota_11.9.8-rs.bin 1813520 e241bb1787afc5e50a9fb820e72dc79586985ec214dbbbe191affda6ba6c6157
+note Сначала сети пресета, потом своя; реле одной карточкой; скрытая сеть; мониторинги CRM/TB убраны
+sig 304502200937261c7b1dced68c6c12b0c4c5aab9d5214d537ef9da178203cd4177debdfe022100f6efdae4be3d57453e83199da8df5474aada9c09199f9e0de64c03f20470d09f
