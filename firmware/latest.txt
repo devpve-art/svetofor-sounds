@@ -1,5 +1,5 @@
 SVTFW 1
-ver 12.0.1-rs
-file svetofor_s3_ota_12.0.1-rs.bin 1838320 fe1a2aab202e49a549ea05f4f1a215c8c8c90f48f6261fd42b8802c81b1683f8
-note Дополнительный вход на IO48: при занятом боксе звук 02/007, удержание 02/008
-sig 304502205ee10b9bd697b64351f403353d466029f9ba095fb9911d875605a36d4bf9627c022100ae781cc1144cb7383b674c5afa72f32293afaf9c5da50e81f74c41535b9eab58
+ver 12.1.0-rs
+file svetofor_s3_ota_12.1.0-rs.bin 1851056 21e9354f558c63482fdf26fa9ca96759c0c0397d984494f982d4fd7b2cca347b
+note Рация из мини-приложения (только владелец) со своей громкостью
+sig 3045022100d2bb53446c9c2758a3c5cb4dbe82564ea04146c7d59ed5276c6fd41b2a47b4df02204091651feb139b926218bd916eec0214500ae5f125cef7a8b537a838fdacd84f
