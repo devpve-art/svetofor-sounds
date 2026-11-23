@@ -1,5 +1,5 @@
 SVTFW 1
-ver 12.1.0-rs
-file svetofor_s3_ota_12.1.0-rs.bin 1851056 21e9354f558c63482fdf26fa9ca96759c0c0397d984494f982d4fd7b2cca347b
-note Рация из мини-приложения (только владелец) со своей громкостью
-sig 3045022100d2bb53446c9c2758a3c5cb4dbe82564ea04146c7d59ed5276c6fd41b2a47b4df02204091651feb139b926218bd916eec0214500ae5f125cef7a8b537a838fdacd84f
+ver 12.2.0-rs
+file svetofor_s3_ota_12.2.0-rs.bin 1876832 4909d9ce904e9caad0f8c9b19165c62462cf6f4c8abbfe9978bb3d7f26d0cf17
+note Табло: состояние бокса по Wi-Fi и ESP-NOW, привязка через сервер
+sig 30460221008a40b27223aea4c3be1e9cf016aa38abc997ec17c3e015faad18609f39a4d9b0022100bcbefa63e0412008d3ada5fabec72e1ae74daaa4ec982e0cb8d04864b4ed1eaa
