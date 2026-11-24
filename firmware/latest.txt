@@ -1,5 +1,5 @@
 SVTFW 1
-ver 12.2.1-rs
-file svetofor_s3_ota_12.2.1-rs.bin 1877280 5730691deae9c4ebdfd2792bb2ecaa8ea427f5373dd451b2c7ad5da5ab8f1d3c
-note Перепутанные провода датчика (TRIG/ECHO, SDA/SCL) видны в карточке бота
-sig 304502206afa2a18859f4f8d6317ff5f653344abbb199a26bbb248fc13608cd1624a6e54022100d6e80b1931839743d4bbf95546e25822a81919d0fc83351bd9534788f51573bd
+ver 12.2.2-rs
+file svetofor_s3_ota_12.2.2-rs.bin 1877248 a899768df479d1aee3b768abd479d62cc4017b7c21f937330292862e2ceb67b5
+note Стартовые наборы: сеть 910 во всех, громкость 20 (кроме Теста)
+sig 304502200c7000a836854e4a2955ef029851eebc4c9dc01dac6b5278c0be75a2da3d1612022100953d2516aa1e5dc7ddd6f56a06532af01388a3fd5f3269c3875be92fb32ea93c
