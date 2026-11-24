@@ -1,4 +1,4 @@
 SVTFW 1
-ver 0.3.0-rs
-file svetofor_panel_ota_0.3.0-rs.bin 1297584 392358ee419ba80542f44b84d50fc3da880652b64b8221712fbb6b033fda38fe
-note без роутера — на точку ведущего датчика
+ver 0.3.1-rs
+file svetofor_panel_ota_0.3.1-rs.bin 1298576 ca3d52ccfc78b1f1f2de9f7c65241ff91e74b14f6bfdba59920fa684a197ebd0
+note быстрее кадры датчиков без роутера
