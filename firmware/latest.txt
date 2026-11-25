@@ -1,5 +1,5 @@
 SVTFW 1
-ver 12.2.2-rs
-file svetofor_s3_ota_12.2.2-rs.bin 1877248 a899768df479d1aee3b768abd479d62cc4017b7c21f937330292862e2ceb67b5
-note Стартовые наборы: сеть 910 во всех, громкость 20 (кроме Теста)
-sig 304502200c7000a836854e4a2955ef029851eebc4c9dc01dac6b5278c0be75a2da3d1612022100953d2516aa1e5dc7ddd6f56a06532af01388a3fd5f3269c3875be92fb32ea93c
+ver 12.2.3-rs
+file svetofor_s3_ota_12.2.3-rs.bin 1878368 c0a6a331c2d713f7a6651566986d3ef81a4e29fa54eb8cc660321b805153c92b
+note Имя датчика меняет только владелец сервера (мини-приложение Telegram); на странице прибора имя только для чтения
+sig 3046022100daeade636dcf219d9e37d0d1a48359b22698aa6eac43b7016997120cea5b3c4e022100bbc7155be1705bc8b1ebca580c947b84f15f125ee95f10332bff6473bc134cbb
